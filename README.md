@@ -21,8 +21,8 @@ El desafio consiste en construir una pagina web que encripte y desencripte texto
 
 ---
 #🏅  Reconocimiento 
-
-        <div align="center"><img src="img/badget.png" width="64"/></div>
+ 
+ 
 ---
 ## 🔑 Llaves de encriptacion
 
