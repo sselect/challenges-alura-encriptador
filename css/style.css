@@ -381,7 +381,7 @@ main {
 .box-footer{
   display: flex;
   align-items: baseline;
-  font-size: 3px;
+  font-size: 1rem;
 }
 
 footer {
@@ -415,14 +415,13 @@ footer span:nth-child(4) {
 }
 
 .icon_linkedin {
-  width: 1.5rem;
-  height: 1.5rem;
+  width: 1.2rem;
+  height: 1.2rem;
   margin-left: 0.7rem;
   margin-right: 0.4rem;
 }
 
 .icon_github {
-  width: 1.5rem;
-  height: 1.5rem;
-
+  width: 1.2rem;
+  height: 1.2rem;
 }
